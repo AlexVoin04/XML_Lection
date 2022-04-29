@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="300px" >
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="TEXT"
+            />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="300px" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="300px" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="300px" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="300px" />
+</TableLayout>
